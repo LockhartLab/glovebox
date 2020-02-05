@@ -21,6 +21,6 @@ deploy:
       secure: pAX1+X3MAdkI8C7L1wFs2xG2InmFTU1nWxmaidCR1XlZSlMMxCwEUgjcWHAAfWGOiR2pp+2WSssuaXboMvkkxC70ddAvY9nXYsEcaxgNW+A2wQ2EVkZVUAfEBzQIzXhI0acBdNVW6SpShJv46gcQEBKXwwuipf99nyLOKjCZtEMiTPar9jxYNGHkPVnrCHgFYvxpX9aiF0SnDCmhtyIGjg3oZgmCLFwsb1Wurf5VqAqEoz20TKrXZTCANAq0uDoFt+W90esxUuiEqmr4Ct7WHzvAPqpmsxUD9cs6y2Yw8qjTQGaIueloNCUpQSnjTy6uWGbUVhMCXS3p6+H46JcnEjipMSRcoFYJ8W2FdBkxFOQwsJAKSUH4cugNQ6BsuWincS4jCdbjCFSlC3s78bwTxvVkxsP8TmlqZrCcNxxNAozX4bk+6Gi2OCfgroVHbpVx2f+bolk0KgGfj0j72cOK218itmdbhP7RA7zycSNgecavr3ZsYRqTpxWbs+oAK6QenA5qCPLxrzk6/P+qI5fTFiW07I/JZD9u8bAaD/3/USGcdKZR9HMAss7AAEe3bA+n0BAM9U3WyO42ShiW6C59xJFasUwgBITm4hserePit0uohGoTr6kwb9JzHeGZAX5+9vYihWTbtm3jyByeToW+r00TNjzZeWXXjTym+J76fl4=
     twine_check: true
     skip_cleanup: true
-    on:
-      tags: true
+#    on:
+#      tags: true
 
