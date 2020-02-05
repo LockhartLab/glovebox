@@ -17,7 +17,7 @@ cache = []
 # GloveBox
 class GloveBox:
     # Initialize class instance
-    def __init__(self, persist=False, _id=None):
+    def __init__(self, _id=None, persist=False):
         # If _id is None, generate
         while _id is None:
             # Propose _id
