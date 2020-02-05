@@ -2,3 +2,5 @@
 /glovebox.egg-info/
 /build/
 /dist/
+/_scripts/
+/.travis.yml
